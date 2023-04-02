@@ -1,15 +1,18 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * print_line - print line
- * @n: number of times that _ must print
+ * print_line - Print line dependent on the integer n.
+ * @n : The number of '_' characters to use
+ * Return: Void.
  */
-void	print_line(int	n)
+void print_line(int n)
 {
-	while (n > 0)
+	int i;
+
+	for (i = 0; i < n; i++)
 	{
 		_putchar('_');
-		n--;
 	}
 	_putchar('\n');
 }
