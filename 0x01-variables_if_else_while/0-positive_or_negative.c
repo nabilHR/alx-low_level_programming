@@ -3,7 +3,12 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/*
+ * Filename: 0-positive_or_negative.c.c
+ * Author: eren
+ * Date: September 10, 2023
+ * Description: positive_or_negative.
+ */
 int main(void)
 {
 	int n;
