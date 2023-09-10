@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
 
 /*
+ * function main do some process a number and give u result is negative or positive  or zero
  * Filename: 0-positive_or_negative.c.c
  * Author: eren
  * Date: September 10, 2023
