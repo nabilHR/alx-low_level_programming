@@ -1,14 +1,15 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
 
 /*
- * function main do some process a number and give u result is negative or positive  or zero
- * Filename: 0-positive_or_negative.c.c
- * Author: eren
+ * Filename: main.c
+ * Author: Your Name
  * Date: September 10, 2023
- * Description: positive_or_negative.
- */
+ * Description: This program classifies a number as positive, zero, or negative.
+*/
+
 int main(void)
 {
 	int n;
