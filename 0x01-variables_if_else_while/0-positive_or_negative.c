@@ -7,7 +7,8 @@
  * Filename: main.c
  * Author: Your Name
  * Date: September 10, 2023
- * Description: This program classifies a number as positive, zero, or negative.
+ * Description: This program classifies a number 
+ * as positive, zero, or negative.
 */
 
 int main(void)
